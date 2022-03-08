@@ -8,4 +8,8 @@ I personally define "life" as follows. (this would not necessarily be correct...
 <li>It changes its behavior in response to external factors.</li>
 <li>It consumes some energy just to exist.</li>
 
-# 
+# What is BioHacking?
+I think BioHacking is an attitude and method to explore alternatives to the "rationality" optimized in conventional industrial (especially manufacturing) systems.
+
+# Why am I interested in Bio?
+It seems to me that a new value is placed on "being unstable" and "being symbiotic" there.
